@@ -7,7 +7,7 @@ import villagegaulois.Etal;
 import villagegaulois.Village;
 
 public class Scenario {
-
+	
 	public static void main(String[] args) {
 		Village village = new Village("le village des irréductibles", 10, 5);
 		Chef abraracourcix = new Chef("Abraracourcix", 10, village);
